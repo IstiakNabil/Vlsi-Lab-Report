@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/VLSI_LAB/Full_Adder/full_adder.xst" -ofn "/home/ise/VLSI_LAB/Full_Adder/full_adder.syr" 
