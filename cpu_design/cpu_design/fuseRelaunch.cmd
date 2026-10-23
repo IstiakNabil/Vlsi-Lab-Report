@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/computer/Rawnak/cpu_design/program_rom_tb_isim_beh.exe" -prj "/home/ise/computer/Rawnak/cpu_design/program_rom_tb_beh.prj" "work.program_rom_tb" 
